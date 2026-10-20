@@ -98,6 +98,7 @@ sales-data-analysis-sql-powerbi/
 │   └── dashboard2.png
 │
 └── README.md
+```
 
 ---
 
